@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 98a31f58-b82f-1370-7917-44662a3e0ecd
 resourcetype: Document
 title: Moral judgment
 uid: e9439be0-508b-a683-4590-11fb37c6945d
