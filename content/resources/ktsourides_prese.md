@@ -5,6 +5,7 @@ file: /courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/e9439be0508
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Moral judgment
 uid: e9439be0-508b-a683-4590-11fb37c6945d
 ---
 Sample slides from a student presentation on moral judgment.
-
