@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample slides from a student presentation.
 file: /courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/f02c50944b46bcec37d12c017da86379_TKonkle_Presenta.pdf
+file_size: 1655126
 file_type: application/pdf
 learning_resource_types:
 - Projects
