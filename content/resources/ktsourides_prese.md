@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample slides from a student presentation on moral judgment.
-file: /courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/e9439be0508ba683459011fb37c6945d_ktsourides_prese.pdf
+file: /ol-ocw-studio-app/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/e9439be0508ba683459011fb37c6945d_ktsourides_prese.pdf
 file_size: 307304
 file_type: application/pdf
 learning_resource_types:

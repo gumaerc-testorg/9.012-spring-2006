@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample slides from a student presentation on language acquisition.
-file: /courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/038c9e8a1f1229add91cfa5b781cc1b9_mfrank_presentat.pdf
+file: /ol-ocw-studio-app/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/038c9e8a1f1229add91cfa5b781cc1b9_mfrank_presentat.pdf
 file_size: 441554
 file_type: application/pdf
 learning_resource_types:
