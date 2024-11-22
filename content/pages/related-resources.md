@@ -6,18 +6,17 @@ description: This section provides online references for additional resources in
   societies that maintain links to areas that any reader can explore in the field
   of cognition. Many of the linked sites provide resources for further study, as well
   as downloadable resources that can be used for classroom teaching.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 641b9bae-8122-6e03-0767-21082eb4a41d
 ---
-
 These materials are from the Spring 2002 version of the class.
 
 The links below are online references for additional resources in the fields of perception, attention, working memory, recognition and recall, language, computation, and other issues in cognitive science. These range from professional societies that maintain links to areas that any reader can explore in the field of cognition. Many of the linked sites provide resources for further study, as well as downloadable resources that can be used for classroom teaching.
 
-Cognition
----------
+## Cognition
 
 The [Cognitive Science Society](http://www.cognitivesciencesociety.org/) has the latest news and information on conferences, funding, and employment, along with a host of related conferences.
 
@@ -33,8 +32,7 @@ The [Federation of Behavioral, Psychological and Cognitive Sciences (PDF)](http:
 
 The [American Society of Neuroimaging](http://www.asnweb.org/) is an international, professional organization representing neurologists, neurosurgeons, neuroradiologists and other neuroscientists who are dedicated to the advancement of techniques used to evaluate the nervous system.
 
-Linguistics
------------
+## Linguistics
 
 The [American Association for Applied Linguistics](http://www.aaal.org/) is a professional organization of scholars who are interested in and actively contribute to the multi-disciplinary field of applied linguistics.
 
@@ -54,10 +52,9 @@ The [Linguistic Society of America](http://www.lsadc.org/) serves its members th
 
 The [Philological Society](http://www.philsoc.org.uk/) is devoted to the scholarly study of language and languages.
 
-[Society for the Study of Symbolic Interaction](http://www.espach.salford.ac.uk/sssi/index.php) is an international social science professional organization of scholars interested in qualitative, especially interactionist, research.
+[Society for the Study of Symbolic Interaction](https://www.symbolicinteraction.org/) is an international social science professional organization of scholars interested in qualitative, especially interactionist, research.
 
-Neuroscience
-------------
+## Neuroscience
 
 The [Society for Neuroscience](http://www.sfn.org/) addresses the study of brain development, sensation and perception, learning and memory, movement, sleep, stress, aging and neurological and psychiatric disorders. It also includes the molecules, cells and genes responsible for nervous system functioning.
 
@@ -65,15 +62,13 @@ The [American Epilepsy Society](http://www.aesnet.org/) is committed to the supp
 
 The [National Institute on Aging](http://www.nia.nih.gov/) leads a broad scientific effort to understand the nature of aging and to extend the healthy, active years of life.
 
-Online References
------------------
+## Online References
 
 [The Human Brain](http://www.vh.org/Providers/Textbooks/BrainAnatomy/BrainAnatomy.html) is an online virtual hospital site that provides a stunning array of images of the human central nervous system from infants to adult. On January 1, 2006 Virtual Hospital / Virtual Children's Hospital ceased operations after serving over 80 million users, due to a lack of funding. Virtual Hospital / Virtual Children's Hospital content remains available online at the link above.
 
 [The Whole Brain](http://www.med.harvard.edu/AANLIB/home.html) atlas is a site that is hosted by the Harvard medical school which displays pictures from MRI to fMRI in various disease states.
 
-Computation
------------
+## Computation
 
 Intelligence basically means the ability to perform well on new data after learning a model on the basis of given data. The [NATO Advanced Study Institute on Learning Theory and Practice](http://www.esat.kuleuven.ac.be/sista/natoasi/ltp2002.html) conference promotes the understanding of problems of learning and generalization.
 
