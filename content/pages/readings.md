@@ -169,7 +169,7 @@ Anderson, J., and L. Schooler. "Reflections of the Environment in Memory." *Psyc
 Generalization and Similarity
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262194503) Tversky, A. "Features of Similarity." *Psychological Rev* 84, no. 4 (1977): 327-352.
+Tversky, A. "Features of Similarity." *Psychological Rev* 84, no. 4 (1977): 327-352.
 
 Shepard, R. "Multidimensional Scaling, Tree-fitting, and Clustering." *Science* 210 (1980): 390-397.
 
@@ -177,7 +177,7 @@ Shepard, R. "Towards a Universal Law of Generalization for Psychological Science
 
 Tenenbaum, J., and T. Griffiths. "Generalization, Similarity, and Bayesian Inference." *Behavioral and Brain Sciences* 24 (2001): 629-641.
 
-Tenenbaum, J. "Rules and Similarity in Concept Learning." In [*Advances in Neural Information Processing Systems 12*](https://mitpress.mit.edu/0262194503). Edited by S. Solla, T. Leen, and K. Muller. Cambridge, MA: MIT Press, 2000, pp. 59-65. ISBN: 0262194503.
+Tenenbaum, J. "Rules and Similarity in Concept Learning." In *Advances in Neural Information Processing Systems 12*. Edited by S. Solla, T. Leen, and K. Muller. Cambridge, MA: MIT Press, 2000, pp. 59-65. ISBN: 0262194503.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -185,7 +185,7 @@ Tenenbaum, J. "Rules and Similarity in Concept Learning." In [*Advances in Neura
 Concepts, Categories, and Theories
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262650444) Medin, D. "Concepts and Conceptual Structure." *American Psychologist* 44, no. 12 (1989): 1461-1481.
+Medin, D. "Concepts and Conceptual Structure." *American Psychologist* 44, no. 12 (1989): 1461-1481.
 
 Medin, D., R. Goldstone, and D. Gentner. "Respects for Similarity." *Psychological Review* 100 (1993): 254-278.
 
