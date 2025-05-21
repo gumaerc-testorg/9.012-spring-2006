@@ -36,7 +36,7 @@ The [American Society of Neuroimaging](http://www.asnweb.org/) is an internation
 
 The [American Association for Applied Linguistics](http://www.aaal.org/) is a professional organization of scholars who are interested in and actively contribute to the multi-disciplinary field of applied linguistics.
 
-The [American Philological Association](http://www.apaclassics.org/) is the principal learned society for Classical Studies of ancient Greek and Roman languages, literatures, and civilizations.
+The [American Philological Association](https://www.classicalstudies.org/american-philological-association-1) is the principal learned society for Classical Studies of ancient Greek and Roman languages, literatures, and civilizations.
 
 The [Association for Computational Linguistics](http://www.aclweb.org/) is the international scientific and professional society for people working on problems involving natural language and computation.
 
@@ -46,7 +46,7 @@ The [Association for Machine Translation in the Americas](http://www.amtaweb.org
 
 The [International Speech Communication Association](http://www.isca-speech.org/) covers all the aspects of Speech Communication, including Acoustics, Phonetics, Phonology, Linguistics, Natural Language Processing, Artificial Intelligence, Cognitive Science, Signal Processing, Pattern Recognition, etc.
 
-The [Epigraphic Society](http://www.epigraphy.org/) is concerned with the discovery and decipherment of ancient inscriptions.
+The [Epigraphic Society](http://www.equinox-project.com/index-l.htm) is concerned with the discovery and decipherment of ancient inscriptions.
 
 The [Linguistic Society of America](http://www.lsadc.org/) serves its members through scholarly meetings, publications, and special activities designed to advance the discipline.
 
