@@ -83,7 +83,7 @@ Kingdom, F. A. A. "Levels of Brightness Perception." In *Levels of Perception*. 
 High-level Vision: Basic Issues
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262042231) Hoffman D. D., and W. A. Richards. ["Parts of Recognition.](https://www.sciencedirect.com/science/article/pii/0010027784900222?via%3Dihub)" *Cognition* 18 (1985): 65-96.
+Hoffman D. D., and W. A. Richards. ["Parts of Recognition.](https://www.sciencedirect.com/science/article/pii/0010027784900222?via%3Dihub)" *Cognition* 18 (1985): 65-96.
 
 McKone, E., and N. Kanwisher. "Does the Human Brain Process Objects of Expertise like Faces? A Review of the Evidence." In [*From Monkey Brain to Human Brain*](https://mitpress.mit.edu/books/monkey-brain-human-brain). Edited by S. Dehaene, J. R. Duhamel, M. Hauser, and Rizzolatti. Cambridge, MA: MIT Press, 2005. ISBN: 0262042231.
 
