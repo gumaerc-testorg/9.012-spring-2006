@@ -31,7 +31,7 @@ Newell, A. "You Can't Play 20 Questions with Nature and Win: Projective Comments
 
 Hosch, E. "Natural Categories." *Cognitive Psychology* 4 (1973): 328-350.
 
-Plato. "[Meno](http://classics.mit.edu/Plato/meno.html)." Translated by Benjamin Jowett.
+Plato. "{{% resource_link "626ed314-d0eb-43f6-96be-8c977d40c3ae" "Meno" %}}." Translated by Benjamin Jowett.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -39,7 +39,7 @@ Plato. "[Meno](http://classics.mit.edu/Plato/meno.html)." Translated by Benjamin
 History of Cognitive Science
 {{< tdclose >}}{{< tdopen >}}
 
-Watson, J. "[Behaviorism - The Modern Note in Psychology](http://psychclassics.yorku.ca/Watson/Battle/watson.htm)." 1929.
+Watson, J. "{{% resource_link "1ebc332d-7456-44f3-91d5-790e7867aa50" "Behaviorism - The Modern Note in Psychology" %}}." 1929.
 
 Tolman, E. "Cognitive Maps in Rats and Men." *The Psychological Review* 55, no. 4 (1948): 189-208.
 
@@ -53,7 +53,7 @@ Fodor, J. A. "On the Impossibility of Acquiring more Powerful Structures." In *L
 
 ———. "Precis of the Modularity of Mind." *Behavioral and Brain Sciences* (Print) 8, no. 11 (1985): 1-42. Cambridge University Press.
 
-Chomsky, N. [*Aspects of the Theory of Syntax*.](https://www.amazon.com/Aspects-Theory-Syntax-Noam-Chomsky/dp/0262530074) Cambridge, MA: MIT Press, 1965. ISBN: 0262530074.
+Chomsky, N. {{% resource_link "7e0e0db4-9332-4923-9645-90345023d58c" "*Aspects of the Theory of Syntax*." %}} Cambridge, MA: MIT Press, 1965. ISBN: 0262530074.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -83,9 +83,9 @@ Kingdom, F. A. A. "Levels of Brightness Perception." In *Levels of Perception*. 
 High-level Vision: Basic Issues
 {{< tdclose >}}{{< tdopen >}}
 
-Hoffman D. D., and W. A. Richards. ["Parts of Recognition.](https://www.sciencedirect.com/science/article/pii/0010027784900222?via%3Dihub)" *Cognition* 18 (1985): 65-96.
+Hoffman D. D., and W. A. Richards. {{% resource_link "01e93454-be83-4279-b0c9-bcf342bc8b32" "\"Parts of Recognition." %}}" *Cognition* 18 (1985): 65-96.
 
-McKone, E., and N. Kanwisher. "Does the Human Brain Process Objects of Expertise like Faces? A Review of the Evidence." In [*From Monkey Brain to Human Brain*](https://mitpress.mit.edu/books/monkey-brain-human-brain). Edited by S. Dehaene, J. R. Duhamel, M. Hauser, and Rizzolatti. Cambridge, MA: MIT Press, 2005. ISBN: 0262042231.
+McKone, E., and N. Kanwisher. "Does the Human Brain Process Objects of Expertise like Faces? A Review of the Evidence." In {{% resource_link "e5f0978c-79f5-4d1f-8acb-fe111f6b004a" "*From Monkey Brain to Human Brain*" %}}. Edited by S. Dehaene, J. R. Duhamel, M. Hauser, and Rizzolatti. Cambridge, MA: MIT Press, 2005. ISBN: 0262042231.
 
 Gauthier, I., and N. Logothetis. "Is Face Recognition Not So Unique After All?" *Journal of Cognitive Neuropsychology* 17, nos. 1/2/3 (2000): 125-142.
 
@@ -191,7 +191,7 @@ Medin, D., R. Goldstone, and D. Gentner. "Respects for Similarity." *Psychologic
 
 Norenzayan, A., E. Smith, B. Kim, and R. Nisbett. "Cultural Preferences for Formal versus Intuitive Reasoning." *Cognitive Science* 26 (2002): 653-684.
 
-Atran, S. "Classifying Nature Across Cultures." In [*Thinking: An Invitation to Cognitive Science*](https://www.amazon.com/Thinking-Invitation-Cognitive-Science-Vol/dp/0262650436). Edited by E. Smith and D. Osherson. Cambridge, MA: MIT Press, 1995. ISBN: 0262650444.
+Atran, S. "Classifying Nature Across Cultures." In {{% resource_link "63fd2857-048f-44d7-b7fc-b5afd299eb95" "*Thinking: An Invitation to Cognitive Science*" %}}. Edited by E. Smith and D. Osherson. Cambridge, MA: MIT Press, 1995. ISBN: 0262650444.
 
 Bailey, D., J. Feldman, S. Narayanan, and G. Lakoff. "Modeling Embodied Lexical Development." In Proceedings of the Annual Cognitive Science Society, 1997.
 
@@ -203,7 +203,7 @@ Kemp, C., and J. Tenenbaum. "Theory-based Induction." In Proceedings of the 25th
 Probabilistic and Conditional Reasoning and Decision Making
 {{< tdclose >}}{{< tdopen >}}
 
-Tversky, A., and D. Kahneman. "Probabilistic Reasoning. (1974/1983)." In [*Readings in Philosophy and Cognitive Science*](https://www.amazon.com/Readings-Philosophy-Cognitive-Science-Press/dp/0262571005). Edited by A. Goldman. Cambridge, MA: MIT Press, 1993, pp. 45-68. ISBN: 0262571005.
+Tversky, A., and D. Kahneman. "Probabilistic Reasoning. (1974/1983)." In {{% resource_link "8db88841-c85e-4b75-a02f-be9c390fbbd4" "*Readings in Philosophy and Cognitive Science*" %}}. Edited by A. Goldman. Cambridge, MA: MIT Press, 1993, pp. 45-68. ISBN: 0262571005.
 
 Chase, V., R. Hertwig, and G. Gigerenzer. "Visions of Rationality." *Trends in Cognitive Sciences* 2 (1998): 206-214.
 
@@ -215,7 +215,7 @@ Cosmides, L., and J. Tooby. "Cognitive Adaptations for Social Exchange." In *The
 
 Oaksford, M., N. Chater. "A Rational Analysis of the Selection Task as Optimal Data Selection." *Psychological Review* 101, no. 4 (1994): 608-631.
 
-Shafir, E., and A. Tversky. "Decision Making." In [*Thinking: An Invitation to Cognitive Science*](https://www.amazon.com/Thinking-Invitation-Cognitive-Science-Vol/dp/0262650436). Edited by E. E. Smith, and D. N. Osherson. Vol. 2. Cambridge, MA: MIT Press, 1995, pp. 77-100. ISBN: 0262650444.
+Shafir, E., and A. Tversky. "Decision Making." In {{% resource_link "63fd2857-048f-44d7-b7fc-b5afd299eb95" "*Thinking: An Invitation to Cognitive Science*" %}}. Edited by E. E. Smith, and D. N. Osherson. Vol. 2. Cambridge, MA: MIT Press, 1995, pp. 77-100. ISBN: 0262650444.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -313,7 +313,7 @@ Gibson, E. "The Interaction of Top-down and Bottom-up Statistics in the Resoluti
 Language III: Language Processing 2
 {{< tdclose >}}{{< tdopen >}}
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/image-language-brain) Gibson, E. "The Dependency Locality Theory: A Distance-based Theory of Linguistic Complexity." In [*Image, Language, Brain*](https://mitpress.mit.edu/books/image-language-brain). Edited by Y. Miyashita, A. Marantz, and W. O'Neil. Cambridge, MA: MIT Press, 2000, pp. 95-126. ISBN: 0262133717.
+{{% resource_link "bd057e7c-2f30-4128-a6c2-1403aaa5f5eb" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Gibson, E. "The Dependency Locality Theory: A Distance-based Theory of Linguistic Complexity." In {{% resource_link "bd057e7c-2f30-4128-a6c2-1403aaa5f5eb" "*Image, Language, Brain*" %}}. Edited by Y. Miyashita, A. Marantz, and W. O'Neil. Cambridge, MA: MIT Press, 2000, pp. 95-126. ISBN: 0262133717.
 
 Gordon, P., R. Hendrick, and M. Johnson. "Memory Interference during Language Processing." *Journal of Experimental Psychology: Learning, Memory and Cognition* 27 (2001): 1411-1423.
 
@@ -363,7 +363,7 @@ Pierrehumbert, J. "Phonetic Diversity, Statistical Learning, and Acquisition of 
 Language and Thought
 {{< tdclose >}}{{< tdopen >}}
 
-Gentner, D., and S. Goldin-Meadow, eds. "Whither Whorf?" In [*Language in Mind: Advances in the Study of Language and Thought*](https://www.amazon.com/Language-Mind-Advances-Study-Thought/dp/0262571633)*.* Cambridge, MA; MIT Press, 2003, pp. 3-14. ISBN: 0262571633.
+Gentner, D., and S. Goldin-Meadow, eds. "Whither Whorf?" In {{% resource_link "ae6579cd-9a00-4813-8445-d8600c04c5ba" "*Language in Mind: Advances in the Study of Language and Thought*" %}}*.* Cambridge, MA; MIT Press, 2003, pp. 3-14. ISBN: 0262571633.
 
 Witthoft, N., J. Winnauer, L. Wu, M. Frank, A. Wade, and L. Boroditsky. "Effects of Language on Color Discriminability." Proceedings of the 25th meeting of the Cognitive Science society, 2003.
 
@@ -371,7 +371,7 @@ Gilbert, A., T. Regier, P. Kay, and R. Ivry. "Whorf Hypothesis is Supported in t
 
 Li, P., and L. Gleitman. "Turning the Tables: Language and Spatial Reasoning." *Cognition* 83, no. 3 (2002): 265-294.
 
-Boroditsky, L., L. Schmidt, and W. Phillips. "Sex, Syntax, and Semantics." In [*Language in Mind: Advances in the study of Language and Thought*](https://www.amazon.com/Language-Mind-Advances-Study-Thought/dp/0262571633). Cambridge, MA: MIT Press, 2003. ISBN: 0262571633.
+Boroditsky, L., L. Schmidt, and W. Phillips. "Sex, Syntax, and Semantics." In {{% resource_link "ae6579cd-9a00-4813-8445-d8600c04c5ba" "*Language in Mind: Advances in the study of Language and Thought*" %}}. Cambridge, MA: MIT Press, 2003. ISBN: 0262571633.
 
 Perfors, A. "What's in a Name? The Effect of Sound Symbolism on Perception of Facial Attractiveness." Poster presented at the 26th Annual Conference of the Cognitive Science Society. Chicago, Illinois, 2004.
 
